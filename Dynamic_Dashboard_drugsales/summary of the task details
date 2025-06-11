@@ -1,3 +1,28 @@
+1).  Load csv data: Customer Table, DrugLookup, Fact Table. 
+2). transfromation of first name and last name to a merge column column as full name. 
+3). Check the formats of all table 
+4). Remove the extra content by deleting 
+5). Save and apply the data and load it on power bi. 
+6). check the relationship in data 
+7). Add new table as calender - add columns as year, Month, Monthnumber, Weekday, Weeknumber and Quarter. format the data as date format. month sortby monthnumber and week sortby weekday. connect the date with salesdate in model data
+8). create a new table called calculation table 
+9). Create measure as kpi names as : Revenue, Transaction, Cost of good sold, Quantity Sold, Profit and Total Customer
+10). Create a folder in model as measure 01
+11). New Card is used for thevisualisation of all the KPIs 
+12). I want to change the name and add month name as well while i switch between the data of different month. so create a dynamic name by creating new measure 
+13). Create new measures: as title Quantity, Revenue, Profit, total cogs. 
+14).  Create a new measure for previous month quantiy, sales,profit and cogs.
+15). all the refrence are also Dynaic in Prev Measure. 
+16). Add Dynamic Up OR Down Arrow as Its Value Changes called as variance.
+17). apply formating for good visualisation and merger both the prev value and variance on a single card then apply the arrow function all feature works dynamically and changes color according to the change in the value.
+18).  create a ppt file and edit as background theme which look better and reflect clear picture of the story which our data have. 
+19). Performance of Top and Bottom Drugs.  
+20). Create a Parameter as Top/Bottom Drugs with value of 1 to 
+21). Create a measure as Drug Dynamic Top/Bottom : which calculate dynamic topn/Bottm
+22). Create a new Parameter as Switch Dynamic Top and Bottom. 
+23). Create a new Measure as Active measure and select all the kpis. 
+24).    
+
 Caclculate Top Drugs Value 
    its the value of the slected no through drag box / filter 
 Calculate Bottom Drugs Value
