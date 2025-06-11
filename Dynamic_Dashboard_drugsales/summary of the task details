@@ -1,4 +1,12 @@
-  Caclculate Top Drugs Value 
+Caclculate Top Drugs Value 
    its the value of the slected no through drag box / filter 
-. Calculate Bottom Drugs Value
-    its the top selected bottom value of the slection no through drag box / filter 
+Calculate Bottom Drugs Value
+  its the top selected bottom value of the slection no through drag box / filter 
+
+Top and bottom values setting 
+  change the decimal value to 0 and currency to dollar to get the correct format of value .
+
+Create a new measure Caption Value: Drugs  
+  1. to combine the top and bottom value 
+  2. and can be use for top and bottom filter 
+  3. format the data by using comma seprator and save it.
