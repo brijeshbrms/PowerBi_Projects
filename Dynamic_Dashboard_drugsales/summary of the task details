@@ -21,17 +21,20 @@
 21). Create a measure as Drug Dynamic Top/Bottom : which calculate dynamic topn/Bottm
 22). Create a new Parameter as Switch Dynamic Top and Bottom. 
 23). Create a new Measure as Active measure and select all the kpis. 
-24).    
-
-Caclculate Top Drugs Value 
-   its the value of the slected no through drag box / filter 
-Calculate Bottom Drugs Value
-  its the top selected bottom value of the slection no through drag box / filter 
-
-Top and bottom values setting 
-  change the decimal value to 0 and currency to dollar to get the correct format of value .
-
-Create a new measure Caption Value: Drugs  
-  1. to combine the top and bottom value 
-  2. and can be use for top and bottom filter 
-  3. format the data by using comma seprator and save it.
+24). create  a new Measure as Drug Dynamic Measure                             
+25). Create a new Measure as Dynamic Measure.
+ 26). Create a new measure as Title : which is dynamic in nature and use as tiltle for top and bottom value.
+27). Format the active measure as per theme.
+28). Create a new %Top Drug as it shows the value of selected filter wise percent data. 
+29).  Create a new measure name as title which inclue Top/Bottom Slide, active measure and switch top and bottom drugs 
+30). set the formating part as per theme and make it perfectly aligned with the other part.
+31). Create measure named: %Top Drugs and %Bottom Drugs
+32). Create a new measure as a Combined measure of % Top And %Bottom Drugs it chnages as per filter option selecteed.
+33). Create a new measure as Top Drugs value and Bottom Drugs Value which can be used at bottom and changes when we slelect the filter feature. 
+34).  Use a Text Box a create a Dynamic Caption which is placed at the bottom of the table. 
+35). Create a new Measure as Customer Dynamic Top/Bottom Measure. 
+36). Create a Switch Parameter for the switch between top and bottom customer. 
+37). Create a new measure  Top And bottom % of customer
+38). For bottom caption section we create two new parameter as Top value and bottom value of the customer. 
+39) Create  Button as Open Filter and Close
+40). Link the button with created bookmark for open/close  of a filter. 
