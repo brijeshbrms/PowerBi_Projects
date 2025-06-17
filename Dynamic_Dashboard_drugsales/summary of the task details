@@ -1,3 +1,4 @@
+Dashboard 1
 1).  Load csv data: Customer Table, DrugLookup, Fact Table. 
 2). transfromation of first name and last name to a merge column column as full name. 
 3). Check the formats of all table 
